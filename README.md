@@ -1,4 +1,4 @@
-# Langchain Agent using a regressor as a tool in a commercial real state recomendation system scenario
+# Langchain Agent using a regressor as a tool in a commercial real state recommendation system scenario
 
 Simple integration between a regression model working as a apartment price recommendation system and an LLM Agent using langchain. The dataset used contains real state data from India.
 
@@ -8,7 +8,7 @@ Langchain topics: Tools and Agents
 
 Regressor: Random Forest
 
-# Modeling steps
+# Overview
 
 ## Business Undestanding
 
